@@ -1,0 +1,7 @@
+com\mycompany\decorator\Shape.class
+com\mycompany\decorator\ShapeDecorator.class
+com\mycompany\decorator\Rectangle.class
+com\mycompany\decorator\RedShapeDecorator.class
+com\mycompany\decorator\DecoratorPatternDemo.class
+com\mycompany\decorator\Decorator.class
+com\mycompany\decorator\Circle.class
