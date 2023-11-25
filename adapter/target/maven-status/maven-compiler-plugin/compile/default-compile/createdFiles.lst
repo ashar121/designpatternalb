@@ -1,0 +1,7 @@
+com\mycompany\adapter\AdvancedMediaPlayer.class
+com\mycompany\adapter\AdapterPatternDemo.class
+com\mycompany\adapter\MediaPlayer.class
+com\mycompany\adapter\MediaAdapter.class
+com\mycompany\adapter\VlcPlayer.class
+com\mycompany\adapter\Mp4Player.class
+com\mycompany\adapter\AudioPlayer.class
